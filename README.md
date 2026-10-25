@@ -1,8 +1,8 @@
-# VINIYOGAN 🚀
+# VINIYOJAN 🚀
 
 ### Student Innovation • FinTech • SIH 2026
 
-Welcome to **VINIYOGAN**, a student innovation team building **VINIYOJAN — Next-generation Instrument & Deposit Health Intelligence**.
+Welcome to **VINIYOJAN**, a student innovation team building **VINIYOJAN — Next-generation Instrument & Deposit Health Intelligence**.
 
 Our project explores smarter Fixed Deposit Receipt (FDR) management through digital document review, simulated bank verification, audit trails, and maturity alerts.
 
